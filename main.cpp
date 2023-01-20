@@ -1,4 +1,5 @@
-/*This is a.....*/
+/* This is a..... */
+/* Author Alexandr Lamparsky KEz-598 2023 */
  #include <iostream>
 
 using namespace std;
@@ -13,4 +14,5 @@ int main()
     cout << "a + b = " << c << endl;
     c = a - b;
     cout << "a - b = " << c << endl;
+    return 0;
 }
